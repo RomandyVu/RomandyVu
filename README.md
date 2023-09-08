@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, my name is Romandy and I'm a Computer Science Major who graduated from Grand Valley State University in 2023.
+
+This is my non-school account, though I am wondering why I didn't just use this account instead of my school account for GitHub.
+
+Here's my GitHub account for college: https://github.com/GVSU-Romandy-Vu
+
+Resume: https://docs.google.com/document/d/18EusJIwbcN-4StQqKcE6eVMBDgG0t4Q4UGSroF6VM_o/edit
 
 <!--
 **RomandyVu/RomandyVu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
